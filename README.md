@@ -1,0 +1,4 @@
+Algorithms
+==========
+
+Some algorithmic exercises 
